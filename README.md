@@ -10,8 +10,8 @@ Developed a proposed cybersecurity resilience program for **NovaTech Solutions**
 
 ## Reports
 
-- [Executive Summary (PDF)](reports/NovaTech_Executive_Summary.pdf) — leadership-level overview of priorities, business impact, and proposed actions.
-- [Cybersecurity Strategy Report (PDF)](reports/NovaTech_Cybersecurity_Strategy_Report.pdf) — full case analysis, proposed controls, responsibilities, success metrics, and references.
+- [Executive Summary (PDF)](NovaTech_Executive_Summary.pdf) — leadership-level overview of priorities, business impact, and proposed actions.
+- [Cybersecurity Strategy Report (PDF)](NovaTech_Cybersecurity_Strategy_Report.pdf) — full case analysis, proposed controls, responsibilities, success metrics, and references.
 
 ## Topics covered
 
